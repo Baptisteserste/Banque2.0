@@ -1,0 +1,14 @@
+C:\Users\bapti\.dotnet\Banque\bin\Debug\net8.0\Banque.exe
+C:\Users\bapti\.dotnet\Banque\bin\Debug\net8.0\Banque.deps.json
+C:\Users\bapti\.dotnet\Banque\bin\Debug\net8.0\Banque.runtimeconfig.json
+C:\Users\bapti\.dotnet\Banque\bin\Debug\net8.0\Banque.dll
+C:\Users\bapti\.dotnet\Banque\bin\Debug\net8.0\Banque.pdb
+C:\Users\bapti\.dotnet\Banque\obj\Debug\net8.0\Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bapti\.dotnet\Banque\obj\Debug\net8.0\Banque.AssemblyInfoInputs.cache
+C:\Users\bapti\.dotnet\Banque\obj\Debug\net8.0\Banque.AssemblyInfo.cs
+C:\Users\bapti\.dotnet\Banque\obj\Debug\net8.0\Banque.csproj.CoreCompileInputs.cache
+C:\Users\bapti\.dotnet\Banque\obj\Debug\net8.0\Banque.dll
+C:\Users\bapti\.dotnet\Banque\obj\Debug\net8.0\refint\Banque.dll
+C:\Users\bapti\.dotnet\Banque\obj\Debug\net8.0\Banque.pdb
+C:\Users\bapti\.dotnet\Banque\obj\Debug\net8.0\Banque.genruntimeconfig.cache
+C:\Users\bapti\.dotnet\Banque\obj\Debug\net8.0\ref\Banque.dll
